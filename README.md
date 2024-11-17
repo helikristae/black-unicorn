@@ -16,6 +16,6 @@ Cybersecurity and data privacy 2024 -  Blended
 | 10.11.2024  | 4h |  PortSwigger and lecture and tasks week 2 | Lecture watching again and doing task Introduction to the portswigger environment |
 | 16.11.2024  | 2h | Watching lecture| Watch lecture and make myself a little bit more comfy with  ZAP |
 | 17.11.2024  | 7h | lecture and task "The Booking system project"  | I watched lectures and start to do the task called "The Booking system project"  |
-| x.11.2024  | Used hours | x  | Output  |
+| 17.11.2024  | 1h | The Booking system project   | I finished the task and deny this "Application Error Disclosure" and watch videos and do some own test |
 
 
