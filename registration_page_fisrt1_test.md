@@ -26,7 +26,6 @@
 	</header>
 
 	<main>
-
 		<section id="contents" class="contents">
 			<h2>Contents</h2>
 			<nav>

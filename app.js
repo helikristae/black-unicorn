@@ -41,7 +41,7 @@ app.post('/register', async (c) => {
     }
 });
 // app.listen({ port: 3000 });
- console.log('Server running on http://localhost:8000');
+console.log('Server running on http://localhost:8000');
 Deno.serve(app.fetch);
 
 
