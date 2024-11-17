@@ -26,7 +26,7 @@ app.post('/register', async (c) => {
 
         // Insert the new user into the database
         const result = await client.queryArray(
-            `INSERT INTO abc123_users (username, password_hash, role, birthdate)
+            `INSERT INTO zephyr_users (username, password_hash, role, birthdate)
              VALUES ($1, $2, $3, $4)`,
            [username,
             hashedPassword,
@@ -39,10 +39,9 @@ app.post('/register', async (c) => {
         console.error(error);
         return c.text('Error during registration', 500);
     }
-}
-);
+});
 // app.listen({ port: 3000 });
-// console.log('Server running on http://localhost:3000');
+ console.log('Server running on http://localhost:8000');
 Deno.serve(app.fetch);
 
 
