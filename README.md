@@ -15,7 +15,7 @@ Cybersecurity and data privacy 2024 -  Blended
 | 9.11.2024  | 2h |  PortSwigger and lecture | Lecture watching, read materilas and familiriazed myself with the materials |
 | 10.11.2024  | 4h |  PortSwigger and lecture and tasks week 2 | Lecture watching again and doing task Introduction to the portswigger environment |
 | 16.11.2024  | 2h | Watching lecture| Watch lecture and make myself a little bit more comfy with  ZAP |
-| 17.11.2024  | 7h | lecture and task "The Booking system project"  | I watched lectures and start to do the task called "The Booking system project"  |
-| 17.11.2024  | 1h | The Booking system project   | I finished the task and deny this "Application Error Disclosure" and watch videos and do some own test |
+| 17.11.2024  | 5h | lecture and task "The Booking system project"  | I watched lectures and start to do the task called "The Booking system project"  Link to the first report: https://github.com/helikristae/black-unicorn/blob/main/First-report-Heli1.md |
+| 17.11.2024  | 3h | The Booking system project   | I finished the task and deny this "Application Error Disclosure" and watch videos and do some own test. Link to second report:https://github.com/helikristae/black-unicorn/blob/main/second-report.md I do this; Application Error Disclosure. And I really tried do this “Content Security Policy (CSP) Header Not Set” but it doesn’t work even I tried really hard to solve it. |
 
 
