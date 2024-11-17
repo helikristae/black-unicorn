@@ -14,8 +14,8 @@ Cybersecurity and data privacy 2024 -  Blended
 | 6.11.2024  | 2h | Introduction to Cybersecurity course  | Learn by myself and doing task |
 | 9.11.2024  | 2h |  PortSwigger and lecture | Lecture watching, read materilas and familiriazed myself with the materials |
 | 10.11.2024  | 4h |  PortSwigger and lecture and tasks week 2 | Lecture watching again and doing task Introduction to the portswigger environment |
-| 17.11.2024  | 4h | lecture and task "The Booking system project"  | I watched lectures and start to do the task called "The Booking system project"  |
-| x.11.2024  | Used hours | x  | Output  |
+| 16.11.2024  | 2h | Watching lecture| Watch lecture and make myself a little bit more comfy with  ZAP |
+| 17.11.2024  | 7h | lecture and task "The Booking system project"  | I watched lectures and start to do the task called "The Booking system project"  |
 | x.11.2024  | Used hours | x  | Output  |
 
 
