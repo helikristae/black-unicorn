@@ -22,6 +22,6 @@ Cybersecurity and data privacy 2024 -  Blended
 | 28.11.2024  | 2h |  Lecture and reading materials |Watched recorded lectures, read materials, and familiarized myself with the content. |
 | 29.11.2024  | 6h |  The Booking system project → Phase 2 | Strated doing this task |
 | ------------- | ------------- |------------- | ------------- |
-**| Total hours | 39h |  c| c |**
+| Total hours | 39h |  c| c |
 
 
