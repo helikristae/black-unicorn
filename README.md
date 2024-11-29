@@ -20,6 +20,6 @@ Cybersecurity and data privacy 2024 -  Blended
 | 22.11.2024  | 2h |  Lecture week 4| Watched recorded lectures, read materials, and familiarized myself with the content.|
 | 26.11.2024  | 2h |  Lecture week 4 and another videos | Watched recorded lectures and videos, read materials, and familiarized myself with the content. |
 | 28.11.2024  | 4h |  Lecture and reading materials, start The Booking system project → Phase 2  |Watched recorded lectures, read materials, and familiarized myself with the content. Start doing part 1.|
-| 29.11.2024  | 7h |  The Booking system project → Phase 2 | Doing this task. I had quite a few challenges, but it seems to be working now. |
+| 29.11.2024  | 7h |  The Booking system project → Phase 2 | Doing this task. I had quite a few challenges, but it seems to be working now. Link to the report 1: https://github.com/helikristae/black-unicorn/blob/fdd38c29fbf0859cc736c256de964d5e82a190ba/Index-Login-Registation-291124-Test-1.md And link to the report 2: https://github.com/helikristae/black-unicorn/blob/fdd38c29fbf0859cc736c256de964d5e82a190ba/bookinsystem2-report2-afterfixedit.md|
 | Total hours| 42h |   |   |
 
