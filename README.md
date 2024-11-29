@@ -17,5 +17,9 @@ Cybersecurity and data privacy 2024 -  Blended
 | 16.11.2024  | 2h | Watching lecture| Watch lecture and make myself a little bit more comfy with  ZAP |
 | 17.11.2024  | 5h | lecture and task "The Booking system project"  | I watched lectures and start to do the task called "The Booking system project"  Link to the first report: https://github.com/helikristae/black-unicorn/blob/main/First-report-Heli1.md |
 | 17.11.2024  | 3h | The Booking system project   | I finished the task and deny this "Application Error Disclosure" and watch videos and do some own test. Link to second report:https://github.com/helikristae/black-unicorn/blob/main/second-report.md I do this; Application Error Disclosure. And I really tried do this “Content Security Policy (CSP) Header Not Set” but it doesn’t work even I tried really hard to solve it. |
-
+| 22.11.2024  | 2h |  Lecture week 4| Watched recorded lectures, read materials, and familiarized myself with the content.|
+| 26.11.2024  | 2h |  Lecture week 4 and another videos | Watched recorded lectures and videos, read materials, and familiarized myself with the content. |
+| 28.11.2024  | 2h |  Lecture and reading materials |Watched recorded lectures, read materials, and familiarized myself with the content. |
+| 29.11.2024  | 6h |  The Booking system project → Phase 2 | Strated doing this task |
+| Total hours| 39h |   |   |
 
