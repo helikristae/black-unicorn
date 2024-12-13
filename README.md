@@ -2,7 +2,7 @@
 Cybersecurity and data privacy 2024 -  Blended
 
 # Logbook
-1.11.2024, 2h, Kick-off lecture, lecture watching and doing tasks
+
 
 | Date  | Used hours | Subject(s)  | Output |
 | ------------- | ------------- |------------- | ------------- |
@@ -23,7 +23,7 @@ Cybersecurity and data privacy 2024 -  Blended
 | 29.11.2024  | 7h |  The Booking system project → Phase 2 | Doing this task. I had quite a few challenges, but it seems to be working now. Link to the report 1: https://github.com/helikristae/black-unicorn/blob/fdd38c29fbf0859cc736c256de964d5e82a190ba/Index-Login-Registation-291124-Test-1.md And link to the report 2: https://github.com/helikristae/black-unicorn/blob/fdd38c29fbf0859cc736c256de964d5e82a190ba/bookinsystem2-report2-afterfixedit.md|
 | 1.12.2024  | 3h |  Portswigger task |I do PortSwigger labs from SQL, access ontrol and authentication |
 | 6.12.2024  | 4h |  Lecture and The booking system project Phase 3 | Watching lecture and start doing The booking system project Phase 3 |
-| 7.12.2024  | 1h |  The booking system project Phase 3  | Doing this task and then i decide i am too tired and I don't have time to do this|
+| 7.12.2024  | 2h |  The booking system project Phase 3  | Doing this task and then i decide i am too tired and I don't have time to do this|
 | 1.12.2024  | 2h |  Last report | Doing the last report from this course|
-| Total hours| 52h |   |   |
+| Total hours| 53h |   |   |
 
